@@ -1,0 +1,26 @@
+
+
+ORDER#1
+
+Olivia Young
+111 Someplace Road, Fayetteville NC 28304
+
+----------------------------------
+VALIDATED ORDER
+----------------------------------
+
+Order:
+Arizona Boots - JCPenny			$49.99
+Pantyhose - JCPenny			$7.99
+Burberry Perfume - JCPenny			$69.99
+#8 Meal - Mi Casita			$17.99
+
+----------------------------------
+Item Total: 				$145.96
+Service Fee: 				$10
+Order Total: 				$155.96
+----------------------------------
+County Tax 				$3.51
+State Tax: 				$7.41
+----------------------------------
+GRAND TOTAL: 				$166.88

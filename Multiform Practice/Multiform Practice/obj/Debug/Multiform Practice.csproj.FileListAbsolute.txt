@@ -1,0 +1,21 @@
+c:\users\mio\documents\visual studio 2015\Projects\Multiform Practice\Multiform Practice\bin\Debug\Multiform Practice.exe.config
+c:\users\mio\documents\visual studio 2015\Projects\Multiform Practice\Multiform Practice\bin\Debug\Multiform Practice.exe
+c:\users\mio\documents\visual studio 2015\Projects\Multiform Practice\Multiform Practice\bin\Debug\Multiform Practice.pdb
+c:\users\mio\documents\visual studio 2015\Projects\Multiform Practice\Multiform Practice\obj\Debug\Multiform Practice.csprojResolveAssemblyReference.cache
+c:\users\mio\documents\visual studio 2015\Projects\Multiform Practice\Multiform Practice\obj\Debug\Multiform_Practice.Form1.resources
+c:\users\mio\documents\visual studio 2015\Projects\Multiform Practice\Multiform Practice\obj\Debug\Multiform_Practice.MessageForm.resources
+c:\users\mio\documents\visual studio 2015\Projects\Multiform Practice\Multiform Practice\obj\Debug\Multiform_Practice.Properties.Resources.resources
+c:\users\mio\documents\visual studio 2015\Projects\Multiform Practice\Multiform Practice\obj\Debug\Multiform Practice.csproj.GenerateResource.Cache
+c:\users\mio\documents\visual studio 2015\Projects\Multiform Practice\Multiform Practice\obj\Debug\Multiform Practice.exe
+c:\users\mio\documents\visual studio 2015\Projects\Multiform Practice\Multiform Practice\obj\Debug\Multiform Practice.pdb
+C:\Users\Mio\Documents\FTCC\C#\Multiform Practice\Multiform Practice\bin\Debug\Multiform Practice.exe.config
+C:\Users\Mio\Documents\FTCC\C#\Multiform Practice\Multiform Practice\bin\Debug\Multiform Practice.exe
+C:\Users\Mio\Documents\FTCC\C#\Multiform Practice\Multiform Practice\bin\Debug\Multiform Practice.pdb
+C:\Users\Mio\Documents\FTCC\C#\Multiform Practice\Multiform Practice\obj\Debug\Multiform Practice.csprojAssemblyReference.cache
+C:\Users\Mio\Documents\FTCC\C#\Multiform Practice\Multiform Practice\obj\Debug\Multiform_Practice.Form1.resources
+C:\Users\Mio\Documents\FTCC\C#\Multiform Practice\Multiform Practice\obj\Debug\Multiform_Practice.MessageForm.resources
+C:\Users\Mio\Documents\FTCC\C#\Multiform Practice\Multiform Practice\obj\Debug\Multiform_Practice.Properties.Resources.resources
+C:\Users\Mio\Documents\FTCC\C#\Multiform Practice\Multiform Practice\obj\Debug\Multiform Practice.csproj.GenerateResource.cache
+C:\Users\Mio\Documents\FTCC\C#\Multiform Practice\Multiform Practice\obj\Debug\Multiform Practice.csproj.CoreCompileInputs.cache
+C:\Users\Mio\Documents\FTCC\C#\Multiform Practice\Multiform Practice\obj\Debug\Multiform Practice.exe
+C:\Users\Mio\Documents\FTCC\C#\Multiform Practice\Multiform Practice\obj\Debug\Multiform Practice.pdb

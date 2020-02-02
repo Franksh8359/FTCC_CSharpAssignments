@@ -1,0 +1,11 @@
+c:\users\mio\documents\visual studio 2015\Projects\Product Queries\Product Queries\bin\Debug\Product Queries.exe.config
+c:\users\mio\documents\visual studio 2015\Projects\Product Queries\Product Queries\bin\Debug\ProductDB.mdf
+c:\users\mio\documents\visual studio 2015\Projects\Product Queries\Product Queries\bin\Debug\ProductDB_log.ldf
+c:\users\mio\documents\visual studio 2015\Projects\Product Queries\Product Queries\bin\Debug\Product Queries.exe
+c:\users\mio\documents\visual studio 2015\Projects\Product Queries\Product Queries\bin\Debug\Product Queries.pdb
+c:\users\mio\documents\visual studio 2015\Projects\Product Queries\Product Queries\obj\Debug\Product Queries.csprojResolveAssemblyReference.cache
+c:\users\mio\documents\visual studio 2015\Projects\Product Queries\Product Queries\obj\Debug\Product_Queries.Form1.resources
+c:\users\mio\documents\visual studio 2015\Projects\Product Queries\Product Queries\obj\Debug\Product_Queries.Properties.Resources.resources
+c:\users\mio\documents\visual studio 2015\Projects\Product Queries\Product Queries\obj\Debug\Product Queries.csproj.GenerateResource.Cache
+c:\users\mio\documents\visual studio 2015\Projects\Product Queries\Product Queries\obj\Debug\Product Queries.exe
+c:\users\mio\documents\visual studio 2015\Projects\Product Queries\Product Queries\obj\Debug\Product Queries.pdb

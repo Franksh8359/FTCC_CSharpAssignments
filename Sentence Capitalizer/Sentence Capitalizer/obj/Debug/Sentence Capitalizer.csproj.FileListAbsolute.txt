@@ -1,0 +1,9 @@
+c:\users\mio\documents\visual studio 2015\Projects\Sentence Capitalizer\Sentence Capitalizer\bin\Debug\Sentence Capitalizer.exe.config
+c:\users\mio\documents\visual studio 2015\Projects\Sentence Capitalizer\Sentence Capitalizer\bin\Debug\Sentence Capitalizer.exe
+c:\users\mio\documents\visual studio 2015\Projects\Sentence Capitalizer\Sentence Capitalizer\bin\Debug\Sentence Capitalizer.pdb
+c:\users\mio\documents\visual studio 2015\Projects\Sentence Capitalizer\Sentence Capitalizer\obj\Debug\Sentence Capitalizer.csprojResolveAssemblyReference.cache
+c:\users\mio\documents\visual studio 2015\Projects\Sentence Capitalizer\Sentence Capitalizer\obj\Debug\Sentence_Capitalizer.MainForm.resources
+c:\users\mio\documents\visual studio 2015\Projects\Sentence Capitalizer\Sentence Capitalizer\obj\Debug\Sentence_Capitalizer.Properties.Resources.resources
+c:\users\mio\documents\visual studio 2015\Projects\Sentence Capitalizer\Sentence Capitalizer\obj\Debug\Sentence Capitalizer.csproj.GenerateResource.Cache
+c:\users\mio\documents\visual studio 2015\Projects\Sentence Capitalizer\Sentence Capitalizer\obj\Debug\Sentence Capitalizer.exe
+c:\users\mio\documents\visual studio 2015\Projects\Sentence Capitalizer\Sentence Capitalizer\obj\Debug\Sentence Capitalizer.pdb

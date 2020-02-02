@@ -1,0 +1,19 @@
+000
+Big Betty
+555 Someplace Drive, Fayetteville NC 28306
+
+Cheeseburger - Burger King
+FOOD
+1.59
+
+Large Milkshake - Burger King
+FOOD
+2.99
+
+Dr. Pepper - Food Lion
+RETAIL
+1.69
+
+Toothpaste - Good Lion
+RETAIL
+5.99

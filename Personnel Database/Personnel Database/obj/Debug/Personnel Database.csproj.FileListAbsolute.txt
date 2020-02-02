@@ -1,0 +1,12 @@
+c:\users\mio\documents\visual studio 2015\Projects\Personnel Database\Personnel Database\bin\Debug\Personnel Database.exe.config
+c:\users\mio\documents\visual studio 2015\Projects\Personnel Database\Personnel Database\bin\Debug\Database1.mdf
+c:\users\mio\documents\visual studio 2015\Projects\Personnel Database\Personnel Database\bin\Debug\Database1_log.ldf
+c:\users\mio\documents\visual studio 2015\Projects\Personnel Database\Personnel Database\bin\Debug\Personnel Database.exe
+c:\users\mio\documents\visual studio 2015\Projects\Personnel Database\Personnel Database\bin\Debug\Personnel Database.pdb
+c:\users\mio\documents\visual studio 2015\Projects\Personnel Database\Personnel Database\obj\Debug\Personnel Database.csprojResolveAssemblyReference.cache
+c:\users\mio\documents\visual studio 2015\Projects\Personnel Database\Personnel Database\obj\Debug\Personnel_Database.MainForm.resources
+c:\users\mio\documents\visual studio 2015\Projects\Personnel Database\Personnel Database\obj\Debug\Personnel_Database.Properties.Resources.resources
+c:\users\mio\documents\visual studio 2015\Projects\Personnel Database\Personnel Database\obj\Debug\Personnel_Database.RecordForm.resources
+c:\users\mio\documents\visual studio 2015\Projects\Personnel Database\Personnel Database\obj\Debug\Personnel Database.csproj.GenerateResource.Cache
+c:\users\mio\documents\visual studio 2015\Projects\Personnel Database\Personnel Database\obj\Debug\Personnel Database.exe
+c:\users\mio\documents\visual studio 2015\Projects\Personnel Database\Personnel Database\obj\Debug\Personnel Database.pdb

@@ -1,0 +1,9 @@
+C:\Users\Public\Documents\visual studio 2015\Projects\Sum of Numbers\Sum of Numbers\bin\Debug\Sum of Numbers.exe.config
+C:\Users\Public\Documents\visual studio 2015\Projects\Sum of Numbers\Sum of Numbers\bin\Debug\Sum of Numbers.exe
+C:\Users\Public\Documents\visual studio 2015\Projects\Sum of Numbers\Sum of Numbers\bin\Debug\Sum of Numbers.pdb
+C:\Users\Public\Documents\visual studio 2015\Projects\Sum of Numbers\Sum of Numbers\obj\Debug\Sum of Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\visual studio 2015\Projects\Sum of Numbers\Sum of Numbers\obj\Debug\Sum_of_Numbers.SumofNumbers.resources
+C:\Users\Public\Documents\visual studio 2015\Projects\Sum of Numbers\Sum of Numbers\obj\Debug\Sum_of_Numbers.Properties.Resources.resources
+C:\Users\Public\Documents\visual studio 2015\Projects\Sum of Numbers\Sum of Numbers\obj\Debug\Sum of Numbers.csproj.GenerateResource.Cache
+C:\Users\Public\Documents\visual studio 2015\Projects\Sum of Numbers\Sum of Numbers\obj\Debug\Sum of Numbers.exe
+C:\Users\Public\Documents\visual studio 2015\Projects\Sum of Numbers\Sum of Numbers\obj\Debug\Sum of Numbers.pdb

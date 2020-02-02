@@ -1,0 +1,12 @@
+C:\Users\Public\Documents\visual studio 2015\Projects\Pig Latin\Pig Latin\bin\Debug\Pig Latin.exe.config
+C:\Users\Public\Documents\visual studio 2015\Projects\Pig Latin\Pig Latin\obj\Debug\Pig Latin.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\visual studio 2015\Projects\Pig Latin\Pig Latin\obj\Debug\Pig_Latin.PigLatin.resources
+C:\Users\Public\Documents\visual studio 2015\Projects\Pig Latin\Pig Latin\obj\Debug\Pig_Latin.Properties.Resources.resources
+C:\Users\Public\Documents\visual studio 2015\Projects\Pig Latin\Pig Latin\obj\Debug\Pig Latin.csproj.GenerateResource.Cache
+C:\Users\Public\Documents\visual studio 2015\Projects\Pig Latin\Pig Latin\bin\Debug\Pig Latin.exe
+C:\Users\Public\Documents\visual studio 2015\Projects\Pig Latin\Pig Latin\bin\Debug\Pig Latin.pdb
+C:\Users\Public\Documents\visual studio 2015\Projects\Pig Latin\Pig Latin\obj\Debug\Pig Latin.exe
+C:\Users\Public\Documents\visual studio 2015\Projects\Pig Latin\Pig Latin\obj\Debug\Pig Latin.pdb
+C:\Users\Mio\Downloads\HW8-2_franks\Pig Latin\Pig Latin\bin\Debug\Pig Latin.exe.config
+C:\Users\Mio\Downloads\HW8-2_franks\Pig Latin\Pig Latin\obj\Debug\Pig Latin.exe
+C:\Users\Mio\Downloads\HW8-2_franks\Pig Latin\Pig Latin\obj\Debug\Pig Latin.pdb

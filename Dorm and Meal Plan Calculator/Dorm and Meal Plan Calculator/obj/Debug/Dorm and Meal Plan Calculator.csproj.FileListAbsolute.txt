@@ -1,0 +1,10 @@
+c:\users\mio\documents\visual studio 2015\Projects\Dorm and Meal Plan Calculator\Dorm and Meal Plan Calculator\bin\Debug\Dorm and Meal Plan Calculator.exe.config
+c:\users\mio\documents\visual studio 2015\Projects\Dorm and Meal Plan Calculator\Dorm and Meal Plan Calculator\bin\Debug\Dorm and Meal Plan Calculator.exe
+c:\users\mio\documents\visual studio 2015\Projects\Dorm and Meal Plan Calculator\Dorm and Meal Plan Calculator\bin\Debug\Dorm and Meal Plan Calculator.pdb
+c:\users\mio\documents\visual studio 2015\Projects\Dorm and Meal Plan Calculator\Dorm and Meal Plan Calculator\obj\Debug\Dorm and Meal Plan Calculator.csprojResolveAssemblyReference.cache
+c:\users\mio\documents\visual studio 2015\Projects\Dorm and Meal Plan Calculator\Dorm and Meal Plan Calculator\obj\Debug\Dorm_and_Meal_Plan_Calculator.CalculateForm.resources
+c:\users\mio\documents\visual studio 2015\Projects\Dorm and Meal Plan Calculator\Dorm and Meal Plan Calculator\obj\Debug\Dorm_and_Meal_Plan_Calculator.Form1.resources
+c:\users\mio\documents\visual studio 2015\Projects\Dorm and Meal Plan Calculator\Dorm and Meal Plan Calculator\obj\Debug\Dorm_and_Meal_Plan_Calculator.Properties.Resources.resources
+c:\users\mio\documents\visual studio 2015\Projects\Dorm and Meal Plan Calculator\Dorm and Meal Plan Calculator\obj\Debug\Dorm and Meal Plan Calculator.csproj.GenerateResource.Cache
+c:\users\mio\documents\visual studio 2015\Projects\Dorm and Meal Plan Calculator\Dorm and Meal Plan Calculator\obj\Debug\Dorm and Meal Plan Calculator.exe
+c:\users\mio\documents\visual studio 2015\Projects\Dorm and Meal Plan Calculator\Dorm and Meal Plan Calculator\obj\Debug\Dorm and Meal Plan Calculator.pdb

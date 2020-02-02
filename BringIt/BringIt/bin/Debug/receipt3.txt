@@ -1,0 +1,23 @@
+
+
+ORDER#3
+
+Zach Bach
+766 Someplace Court, Fayetteville NC 28304
+
+----------------------------------
+INVALID ORDER
+----------------------------------
+
+Order:
+Happy Meal			$3.99
+
+----------------------------------
+Item Total: 				$3.99
+Service Fee: 				$0.8
+Order Total: 				$4.79
+----------------------------------
+County Tax 				$0.11
+State Tax: 				$0.23
+----------------------------------
+GRAND TOTAL: 				$5.13

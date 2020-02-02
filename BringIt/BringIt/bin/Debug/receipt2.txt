@@ -1,0 +1,24 @@
+
+
+ORDER#2
+
+Cornelius Smith
+766 Someplace Avenue, Spring Lake NC 28390
+
+----------------------------------
+VALIDATED ORDER
+----------------------------------
+
+Order:
+Small Gas Can - Walmart			$9.99
+10W40 Oil - Autozone			$4.59
+
+----------------------------------
+Item Total: 				$14.58
+Service Fee: 				$0.73
+Order Total: 				$15.31
+----------------------------------
+County Tax 				$0.34
+State Tax: 				$0.73
+----------------------------------
+GRAND TOTAL: 				$16.38

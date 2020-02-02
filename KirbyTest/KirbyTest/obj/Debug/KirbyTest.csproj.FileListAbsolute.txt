@@ -1,0 +1,30 @@
+c:\users\mio\documents\visual studio 2015\Projects\KirbyTest\KirbyTest\bin\Debug\KirbyTest.exe.config
+c:\users\mio\documents\visual studio 2015\Projects\KirbyTest\KirbyTest\bin\Debug\KirbyTest.exe
+c:\users\mio\documents\visual studio 2015\Projects\KirbyTest\KirbyTest\bin\Debug\KirbyTest.pdb
+c:\users\mio\documents\visual studio 2015\Projects\KirbyTest\KirbyTest\obj\Debug\KirbyTest.csprojResolveAssemblyReference.cache
+c:\users\mio\documents\visual studio 2015\Projects\KirbyTest\KirbyTest\obj\Debug\KirbyTest.Form1.resources
+c:\users\mio\documents\visual studio 2015\Projects\KirbyTest\KirbyTest\obj\Debug\KirbyTest.Properties.Resources.resources
+c:\users\mio\documents\visual studio 2015\Projects\KirbyTest\KirbyTest\obj\Debug\KirbyTest.csproj.GenerateResource.Cache
+c:\users\mio\documents\visual studio 2015\Projects\KirbyTest\KirbyTest\obj\Debug\KirbyTest.exe
+c:\users\mio\documents\visual studio 2015\Projects\KirbyTest\KirbyTest\obj\Debug\KirbyTest.pdb
+C:\Users\Mio\Documents\Visual Studio 2015\Projects\KirbyTest\KirbyTest\obj\Debug\KirbyTest.csproj.CoreCompileInputs.cache
+C:\Users\Mio\Documents\FTCC\C#\KirbyTest\KirbyTest\bin\Debug\KirbyTest.exe.config
+C:\Users\Mio\Documents\FTCC\C#\KirbyTest\KirbyTest\bin\Debug\KirbyTest.exe
+C:\Users\Mio\Documents\FTCC\C#\KirbyTest\KirbyTest\bin\Debug\KirbyTest.pdb
+C:\Users\Mio\Documents\FTCC\C#\KirbyTest\KirbyTest\obj\Debug\KirbyTest.csprojAssemblyReference.cache
+C:\Users\Mio\Documents\FTCC\C#\KirbyTest\KirbyTest\obj\Debug\KirbyTest.Form1.resources
+C:\Users\Mio\Documents\FTCC\C#\KirbyTest\KirbyTest\obj\Debug\KirbyTest.Properties.Resources.resources
+C:\Users\Mio\Documents\FTCC\C#\KirbyTest\KirbyTest\obj\Debug\KirbyTest.csproj.GenerateResource.cache
+C:\Users\Mio\Documents\FTCC\C#\KirbyTest\KirbyTest\obj\Debug\KirbyTest.csproj.CoreCompileInputs.cache
+C:\Users\Mio\Documents\FTCC\C#\KirbyTest\KirbyTest\obj\Debug\KirbyTest.exe
+C:\Users\Mio\Documents\FTCC\C#\KirbyTest\KirbyTest\obj\Debug\KirbyTest.pdb
+C:\Users\Mio\Documents\Personal Programming\KirbyTest\KirbyTest\bin\Debug\KirbyTest.exe.config
+C:\Users\Mio\Documents\Personal Programming\KirbyTest\KirbyTest\bin\Debug\KirbyTest.exe
+C:\Users\Mio\Documents\Personal Programming\KirbyTest\KirbyTest\bin\Debug\KirbyTest.pdb
+C:\Users\Mio\Documents\Personal Programming\KirbyTest\KirbyTest\obj\Debug\KirbyTest.csprojAssemblyReference.cache
+C:\Users\Mio\Documents\Personal Programming\KirbyTest\KirbyTest\obj\Debug\KirbyTest.Form1.resources
+C:\Users\Mio\Documents\Personal Programming\KirbyTest\KirbyTest\obj\Debug\KirbyTest.Properties.Resources.resources
+C:\Users\Mio\Documents\Personal Programming\KirbyTest\KirbyTest\obj\Debug\KirbyTest.csproj.GenerateResource.cache
+C:\Users\Mio\Documents\Personal Programming\KirbyTest\KirbyTest\obj\Debug\KirbyTest.csproj.CoreCompileInputs.cache
+C:\Users\Mio\Documents\Personal Programming\KirbyTest\KirbyTest\obj\Debug\KirbyTest.exe
+C:\Users\Mio\Documents\Personal Programming\KirbyTest\KirbyTest\obj\Debug\KirbyTest.pdb

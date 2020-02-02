@@ -1,0 +1,9 @@
+c:\users\mio\documents\visual studio 2015\Projects\Retail Item Class\Retail Item Class\bin\Debug\Retail Item Class.exe.config
+c:\users\mio\documents\visual studio 2015\Projects\Retail Item Class\Retail Item Class\bin\Debug\Retail Item Class.exe
+c:\users\mio\documents\visual studio 2015\Projects\Retail Item Class\Retail Item Class\bin\Debug\Retail Item Class.pdb
+c:\users\mio\documents\visual studio 2015\Projects\Retail Item Class\Retail Item Class\obj\Debug\Retail Item Class.csprojResolveAssemblyReference.cache
+c:\users\mio\documents\visual studio 2015\Projects\Retail Item Class\Retail Item Class\obj\Debug\Retail_Item_Class.MainForm.resources
+c:\users\mio\documents\visual studio 2015\Projects\Retail Item Class\Retail Item Class\obj\Debug\Retail_Item_Class.Properties.Resources.resources
+c:\users\mio\documents\visual studio 2015\Projects\Retail Item Class\Retail Item Class\obj\Debug\Retail Item Class.csproj.GenerateResource.Cache
+c:\users\mio\documents\visual studio 2015\Projects\Retail Item Class\Retail Item Class\obj\Debug\Retail Item Class.exe
+c:\users\mio\documents\visual studio 2015\Projects\Retail Item Class\Retail Item Class\obj\Debug\Retail Item Class.pdb

@@ -1,0 +1,28 @@
+c:\users\mio\documents\visual studio 2015\Projects\BringIt\BringIt\bin\Debug\BringIt.exe.config
+c:\users\mio\documents\visual studio 2015\Projects\BringIt\BringIt\obj\Debug\BringIt.csprojResolveAssemblyReference.cache
+c:\users\mio\documents\visual studio 2015\Projects\BringIt\BringIt\obj\Debug\BringIt.Properties.Resources.resources
+c:\users\mio\documents\visual studio 2015\Projects\BringIt\BringIt\obj\Debug\BringIt.csproj.GenerateResource.Cache
+c:\users\mio\documents\visual studio 2015\Projects\BringIt\BringIt\bin\Debug\BringIt.exe
+c:\users\mio\documents\visual studio 2015\Projects\BringIt\BringIt\bin\Debug\BringIt.pdb
+c:\users\mio\documents\visual studio 2015\Projects\BringIt\BringIt\obj\Debug\BringIt.exe
+c:\users\mio\documents\visual studio 2015\Projects\BringIt\BringIt\obj\Debug\BringIt.pdb
+c:\users\mio\documents\visual studio 2015\Projects\BringIt\BringIt\obj\Debug\BringIt.MainForm.resources
+C:\Users\Mio\Documents\FTCC\2017\BringIt\BringIt\bin\Debug\BringIt.exe.config
+C:\Users\Mio\Documents\FTCC\2017\BringIt\BringIt\obj\Debug\BringIt.exe
+C:\Users\Mio\Documents\FTCC\2017\BringIt\BringIt\obj\Debug\BringIt.pdb
+C:\Users\Mio\Documents\FTCC\2017\BringIt\BringIt\bin\Debug\BringIt.exe
+C:\Users\Mio\Documents\FTCC\2017\BringIt\BringIt\bin\Debug\BringIt.pdb
+C:\Users\Mio\Documents\FTCC\2017\BringIt\BringIt\obj\Debug\BringIt.csprojResolveAssemblyReference.cache
+C:\Users\Mio\Documents\FTCC\2017\BringIt\BringIt\obj\Debug\BringIt.MainForm.resources
+C:\Users\Mio\Documents\FTCC\2017\BringIt\BringIt\obj\Debug\BringIt.Properties.Resources.resources
+C:\Users\Mio\Documents\FTCC\2017\BringIt\BringIt\obj\Debug\BringIt.csproj.GenerateResource.Cache
+C:\Users\Mio\Documents\FTCC\FTCC_C#Assignments\BringIt\BringIt\bin\Debug\BringIt.exe.config
+C:\Users\Mio\Documents\FTCC\FTCC_C#Assignments\BringIt\BringIt\bin\Debug\BringIt.exe
+C:\Users\Mio\Documents\FTCC\FTCC_C#Assignments\BringIt\BringIt\bin\Debug\BringIt.pdb
+C:\Users\Mio\Documents\FTCC\FTCC_C#Assignments\BringIt\BringIt\obj\Debug\BringIt.csprojAssemblyReference.cache
+C:\Users\Mio\Documents\FTCC\FTCC_C#Assignments\BringIt\BringIt\obj\Debug\BringIt.MainForm.resources
+C:\Users\Mio\Documents\FTCC\FTCC_C#Assignments\BringIt\BringIt\obj\Debug\BringIt.Properties.Resources.resources
+C:\Users\Mio\Documents\FTCC\FTCC_C#Assignments\BringIt\BringIt\obj\Debug\BringIt.csproj.GenerateResource.cache
+C:\Users\Mio\Documents\FTCC\FTCC_C#Assignments\BringIt\BringIt\obj\Debug\BringIt.csproj.CoreCompileInputs.cache
+C:\Users\Mio\Documents\FTCC\FTCC_C#Assignments\BringIt\BringIt\obj\Debug\BringIt.exe
+C:\Users\Mio\Documents\FTCC\FTCC_C#Assignments\BringIt\BringIt\obj\Debug\BringIt.pdb

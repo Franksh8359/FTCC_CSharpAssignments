@@ -1,0 +1,26 @@
+
+
+ORDER#0
+
+Big Betty
+555 Someplace Drive, Fayetteville NC 28306
+
+----------------------------------
+VALIDATED ORDER
+----------------------------------
+
+Order:
+Cheeseburger - Burger King			$1.59
+Large Milkshake - Burger King			$2.99
+Dr. Pepper - Food Lion			$1.69
+Toothpaste - Good Lion			$5.99
+
+----------------------------------
+Item Total: 				$12.26
+Service Fee: 				$1.3
+Order Total: 				$13.56
+----------------------------------
+County Tax 				$0.31
+State Tax: 				$0.64
+----------------------------------
+GRAND TOTAL: 				$14.51

@@ -1,0 +1,11 @@
+c:\users\mio\documents\visual studio 2015\Projects\Product Search\Product Search\bin\Debug\Product Search.exe.config
+c:\users\mio\documents\visual studio 2015\Projects\Product Search\Product Search\bin\Debug\ProductDB.mdf
+c:\users\mio\documents\visual studio 2015\Projects\Product Search\Product Search\bin\Debug\ProductDB_log.ldf
+c:\users\mio\documents\visual studio 2015\Projects\Product Search\Product Search\bin\Debug\Product Search.exe
+c:\users\mio\documents\visual studio 2015\Projects\Product Search\Product Search\bin\Debug\Product Search.pdb
+c:\users\mio\documents\visual studio 2015\Projects\Product Search\Product Search\obj\Debug\Product Search.csprojResolveAssemblyReference.cache
+c:\users\mio\documents\visual studio 2015\Projects\Product Search\Product Search\obj\Debug\Product_Search.Form1.resources
+c:\users\mio\documents\visual studio 2015\Projects\Product Search\Product Search\obj\Debug\Product_Search.Properties.Resources.resources
+c:\users\mio\documents\visual studio 2015\Projects\Product Search\Product Search\obj\Debug\Product Search.csproj.GenerateResource.Cache
+c:\users\mio\documents\visual studio 2015\Projects\Product Search\Product Search\obj\Debug\Product Search.exe
+c:\users\mio\documents\visual studio 2015\Projects\Product Search\Product Search\obj\Debug\Product Search.pdb

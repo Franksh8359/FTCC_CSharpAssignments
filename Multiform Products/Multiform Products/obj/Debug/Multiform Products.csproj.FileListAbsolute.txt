@@ -1,0 +1,12 @@
+c:\users\mio\documents\visual studio 2015\Projects\Multiform Products\Multiform Products\bin\Debug\Multiform Products.exe.config
+c:\users\mio\documents\visual studio 2015\Projects\Multiform Products\Multiform Products\bin\Debug\ProductDB.mdf
+c:\users\mio\documents\visual studio 2015\Projects\Multiform Products\Multiform Products\bin\Debug\ProductDB_log.ldf
+c:\users\mio\documents\visual studio 2015\Projects\Multiform Products\Multiform Products\bin\Debug\Multiform Products.exe
+c:\users\mio\documents\visual studio 2015\Projects\Multiform Products\Multiform Products\bin\Debug\Multiform Products.pdb
+c:\users\mio\documents\visual studio 2015\Projects\Multiform Products\Multiform Products\obj\Debug\Multiform Products.csprojResolveAssemblyReference.cache
+c:\users\mio\documents\visual studio 2015\Projects\Multiform Products\Multiform Products\obj\Debug\Multiform_Products.DetailsForm.resources
+c:\users\mio\documents\visual studio 2015\Projects\Multiform Products\Multiform Products\obj\Debug\Multiform_Products.MainForm.resources
+c:\users\mio\documents\visual studio 2015\Projects\Multiform Products\Multiform Products\obj\Debug\Multiform_Products.Properties.Resources.resources
+c:\users\mio\documents\visual studio 2015\Projects\Multiform Products\Multiform Products\obj\Debug\Multiform Products.csproj.GenerateResource.Cache
+c:\users\mio\documents\visual studio 2015\Projects\Multiform Products\Multiform Products\obj\Debug\Multiform Products.exe
+c:\users\mio\documents\visual studio 2015\Projects\Multiform Products\Multiform Products\obj\Debug\Multiform Products.pdb

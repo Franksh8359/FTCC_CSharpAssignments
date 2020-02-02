@@ -1,0 +1,18 @@
+c:\users\mio\documents\visual studio 2015\Projects\Person and Customer Classes\Person and Customer Classes\bin\Debug\Person and Customer Classes.exe.config
+c:\users\mio\documents\visual studio 2015\Projects\Person and Customer Classes\Person and Customer Classes\bin\Debug\Person and Customer Classes.exe
+c:\users\mio\documents\visual studio 2015\Projects\Person and Customer Classes\Person and Customer Classes\bin\Debug\Person and Customer Classes.pdb
+c:\users\mio\documents\visual studio 2015\Projects\Person and Customer Classes\Person and Customer Classes\obj\Debug\Person and Customer Classes.csprojResolveAssemblyReference.cache
+c:\users\mio\documents\visual studio 2015\Projects\Person and Customer Classes\Person and Customer Classes\obj\Debug\Person_and_Customer_Classes.Form1.resources
+c:\users\mio\documents\visual studio 2015\Projects\Person and Customer Classes\Person and Customer Classes\obj\Debug\Person_and_Customer_Classes.Properties.Resources.resources
+c:\users\mio\documents\visual studio 2015\Projects\Person and Customer Classes\Person and Customer Classes\obj\Debug\Person and Customer Classes.csproj.GenerateResource.Cache
+c:\users\mio\documents\visual studio 2015\Projects\Person and Customer Classes\Person and Customer Classes\obj\Debug\Person and Customer Classes.exe
+c:\users\mio\documents\visual studio 2015\Projects\Person and Customer Classes\Person and Customer Classes\obj\Debug\Person and Customer Classes.pdb
+C:\Users\Mio\Downloads\Person and Customer Classes\Person and Customer Classes\bin\Debug\Person and Customer Classes.exe.config
+C:\Users\Mio\Downloads\Person and Customer Classes\Person and Customer Classes\bin\Debug\Person and Customer Classes.exe
+C:\Users\Mio\Downloads\Person and Customer Classes\Person and Customer Classes\bin\Debug\Person and Customer Classes.pdb
+C:\Users\Mio\Downloads\Person and Customer Classes\Person and Customer Classes\obj\Debug\Person and Customer Classes.csprojResolveAssemblyReference.cache
+C:\Users\Mio\Downloads\Person and Customer Classes\Person and Customer Classes\obj\Debug\Person_and_Customer_Classes.Form1.resources
+C:\Users\Mio\Downloads\Person and Customer Classes\Person and Customer Classes\obj\Debug\Person_and_Customer_Classes.Properties.Resources.resources
+C:\Users\Mio\Downloads\Person and Customer Classes\Person and Customer Classes\obj\Debug\Person and Customer Classes.csproj.GenerateResource.Cache
+C:\Users\Mio\Downloads\Person and Customer Classes\Person and Customer Classes\obj\Debug\Person and Customer Classes.exe
+C:\Users\Mio\Downloads\Person and Customer Classes\Person and Customer Classes\obj\Debug\Person and Customer Classes.pdb

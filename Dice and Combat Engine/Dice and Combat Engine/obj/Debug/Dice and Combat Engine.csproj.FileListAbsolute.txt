@@ -1,0 +1,13 @@
+C:\Users\Public\Documents\visual studio 2015\Projects\Dice and Combat Engine\Dice and Combat Engine\bin\Debug\Dice and Combat Engine.exe.config
+C:\Users\Mio\Downloads\Dice and Combat Engine\Dice and Combat Engine\Dice and Combat Engine\bin\Debug\Dice and Combat Engine.exe.config
+C:\Users\Mio\Downloads\Dice and Combat Engine\Dice and Combat Engine\Dice and Combat Engine\bin\Debug\Dice and Combat Engine.exe
+C:\Users\Mio\Downloads\Dice and Combat Engine\Dice and Combat Engine\Dice and Combat Engine\bin\Debug\Dice and Combat Engine.pdb
+C:\Users\Mio\Downloads\Dice and Combat Engine\Dice and Combat Engine\Dice and Combat Engine\obj\Debug\Dice and Combat Engine.csprojResolveAssemblyReference.cache
+C:\Users\Mio\Downloads\Dice and Combat Engine\Dice and Combat Engine\Dice and Combat Engine\obj\Debug\Dice_and_Combat_Engine.Form1.resources
+C:\Users\Mio\Downloads\Dice and Combat Engine\Dice and Combat Engine\Dice and Combat Engine\obj\Debug\Dice_and_Combat_Engine.Properties.Resources.resources
+C:\Users\Mio\Downloads\Dice and Combat Engine\Dice and Combat Engine\Dice and Combat Engine\obj\Debug\Dice and Combat Engine.csproj.GenerateResource.Cache
+C:\Users\Mio\Downloads\Dice and Combat Engine\Dice and Combat Engine\Dice and Combat Engine\obj\Debug\Dice and Combat Engine.exe
+C:\Users\Mio\Downloads\Dice and Combat Engine\Dice and Combat Engine\Dice and Combat Engine\obj\Debug\Dice and Combat Engine.pdb
+C:\Users\Mio\Documents\FTCC\Dice and Combat Engine\Dice and Combat Engine\Dice and Combat Engine\bin\Debug\Dice and Combat Engine.exe.config
+C:\Users\Mio\Documents\FTCC\Dice and Combat Engine\Dice and Combat Engine\Dice and Combat Engine\obj\Debug\Dice and Combat Engine.exe
+C:\Users\Mio\Documents\FTCC\Dice and Combat Engine\Dice and Combat Engine\Dice and Combat Engine\obj\Debug\Dice and Combat Engine.pdb

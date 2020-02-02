@@ -1,0 +1,19 @@
+c:\users\mio\documents\visual studio 2015\Projects\GuessNumber\GuessNumber\bin\Debug\GuessNumber.exe.config
+c:\users\mio\documents\visual studio 2015\Projects\GuessNumber\GuessNumber\bin\Debug\GuessNumber.exe
+c:\users\mio\documents\visual studio 2015\Projects\GuessNumber\GuessNumber\bin\Debug\GuessNumber.pdb
+c:\users\mio\documents\visual studio 2015\Projects\GuessNumber\GuessNumber\obj\Debug\GuessNumber.csprojResolveAssemblyReference.cache
+c:\users\mio\documents\visual studio 2015\Projects\GuessNumber\GuessNumber\obj\Debug\GuessNumber.Form1.resources
+c:\users\mio\documents\visual studio 2015\Projects\GuessNumber\GuessNumber\obj\Debug\GuessNumber.Properties.Resources.resources
+c:\users\mio\documents\visual studio 2015\Projects\GuessNumber\GuessNumber\obj\Debug\GuessNumber.csproj.GenerateResource.Cache
+c:\users\mio\documents\visual studio 2015\Projects\GuessNumber\GuessNumber\obj\Debug\GuessNumber.exe
+c:\users\mio\documents\visual studio 2015\Projects\GuessNumber\GuessNumber\obj\Debug\GuessNumber.pdb
+C:\Users\Mio\Documents\FTCC\FTCC_C#Assignments\GuessNumber\GuessNumber\bin\Debug\GuessNumber.exe.config
+C:\Users\Mio\Documents\FTCC\FTCC_C#Assignments\GuessNumber\GuessNumber\bin\Debug\GuessNumber.exe
+C:\Users\Mio\Documents\FTCC\FTCC_C#Assignments\GuessNumber\GuessNumber\bin\Debug\GuessNumber.pdb
+C:\Users\Mio\Documents\FTCC\FTCC_C#Assignments\GuessNumber\GuessNumber\obj\Debug\GuessNumber.csprojAssemblyReference.cache
+C:\Users\Mio\Documents\FTCC\FTCC_C#Assignments\GuessNumber\GuessNumber\obj\Debug\GuessNumber.Form1.resources
+C:\Users\Mio\Documents\FTCC\FTCC_C#Assignments\GuessNumber\GuessNumber\obj\Debug\GuessNumber.Properties.Resources.resources
+C:\Users\Mio\Documents\FTCC\FTCC_C#Assignments\GuessNumber\GuessNumber\obj\Debug\GuessNumber.csproj.GenerateResource.cache
+C:\Users\Mio\Documents\FTCC\FTCC_C#Assignments\GuessNumber\GuessNumber\obj\Debug\GuessNumber.csproj.CoreCompileInputs.cache
+C:\Users\Mio\Documents\FTCC\FTCC_C#Assignments\GuessNumber\GuessNumber\obj\Debug\GuessNumber.exe
+C:\Users\Mio\Documents\FTCC\FTCC_C#Assignments\GuessNumber\GuessNumber\obj\Debug\GuessNumber.pdb

@@ -1,0 +1,19 @@
+c:\users\mio\documents\visual studio 2015\Projects\Test\Test\bin\Debug\Test.exe.config
+c:\users\mio\documents\visual studio 2015\Projects\Test\Test\bin\Debug\Test.exe
+c:\users\mio\documents\visual studio 2015\Projects\Test\Test\bin\Debug\Test.pdb
+c:\users\mio\documents\visual studio 2015\Projects\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+c:\users\mio\documents\visual studio 2015\Projects\Test\Test\obj\Debug\Test.Form1.resources
+c:\users\mio\documents\visual studio 2015\Projects\Test\Test\obj\Debug\Test.Properties.Resources.resources
+c:\users\mio\documents\visual studio 2015\Projects\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+c:\users\mio\documents\visual studio 2015\Projects\Test\Test\obj\Debug\Test.exe
+c:\users\mio\documents\visual studio 2015\Projects\Test\Test\obj\Debug\Test.pdb
+C:\Users\Mio\Documents\FTCC\FTCC_C#Assignments\Test\Test\bin\Debug\Test.exe.config
+C:\Users\Mio\Documents\FTCC\FTCC_C#Assignments\Test\Test\bin\Debug\Test.exe
+C:\Users\Mio\Documents\FTCC\FTCC_C#Assignments\Test\Test\bin\Debug\Test.pdb
+C:\Users\Mio\Documents\FTCC\FTCC_C#Assignments\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Mio\Documents\FTCC\FTCC_C#Assignments\Test\Test\obj\Debug\Test.Form1.resources
+C:\Users\Mio\Documents\FTCC\FTCC_C#Assignments\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Mio\Documents\FTCC\FTCC_C#Assignments\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\Mio\Documents\FTCC\FTCC_C#Assignments\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Mio\Documents\FTCC\FTCC_C#Assignments\Test\Test\obj\Debug\Test.exe
+C:\Users\Mio\Documents\FTCC\FTCC_C#Assignments\Test\Test\obj\Debug\Test.pdb

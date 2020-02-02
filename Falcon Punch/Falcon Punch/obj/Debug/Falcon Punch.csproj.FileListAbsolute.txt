@@ -1,0 +1,19 @@
+c:\users\mio\documents\visual studio 2015\Projects\Falcon Punch\Falcon Punch\bin\Debug\Falcon Punch.exe.config
+c:\users\mio\documents\visual studio 2015\Projects\Falcon Punch\Falcon Punch\bin\Debug\Falcon Punch.exe
+c:\users\mio\documents\visual studio 2015\Projects\Falcon Punch\Falcon Punch\bin\Debug\Falcon Punch.pdb
+c:\users\mio\documents\visual studio 2015\Projects\Falcon Punch\Falcon Punch\obj\Debug\Falcon Punch.csprojResolveAssemblyReference.cache
+c:\users\mio\documents\visual studio 2015\Projects\Falcon Punch\Falcon Punch\obj\Debug\Falcon_Punch.Form1.resources
+c:\users\mio\documents\visual studio 2015\Projects\Falcon Punch\Falcon Punch\obj\Debug\Falcon_Punch.Properties.Resources.resources
+c:\users\mio\documents\visual studio 2015\Projects\Falcon Punch\Falcon Punch\obj\Debug\Falcon Punch.csproj.GenerateResource.Cache
+c:\users\mio\documents\visual studio 2015\Projects\Falcon Punch\Falcon Punch\obj\Debug\Falcon Punch.exe
+c:\users\mio\documents\visual studio 2015\Projects\Falcon Punch\Falcon Punch\obj\Debug\Falcon Punch.pdb
+C:\Users\Mio\Documents\FTCC\FTCC_C#Assignments\Falcon Punch\Falcon Punch\bin\Debug\Falcon Punch.exe.config
+C:\Users\Mio\Documents\FTCC\FTCC_C#Assignments\Falcon Punch\Falcon Punch\bin\Debug\Falcon Punch.exe
+C:\Users\Mio\Documents\FTCC\FTCC_C#Assignments\Falcon Punch\Falcon Punch\bin\Debug\Falcon Punch.pdb
+C:\Users\Mio\Documents\FTCC\FTCC_C#Assignments\Falcon Punch\Falcon Punch\obj\Debug\Falcon Punch.csprojAssemblyReference.cache
+C:\Users\Mio\Documents\FTCC\FTCC_C#Assignments\Falcon Punch\Falcon Punch\obj\Debug\Falcon_Punch.Form1.resources
+C:\Users\Mio\Documents\FTCC\FTCC_C#Assignments\Falcon Punch\Falcon Punch\obj\Debug\Falcon_Punch.Properties.Resources.resources
+C:\Users\Mio\Documents\FTCC\FTCC_C#Assignments\Falcon Punch\Falcon Punch\obj\Debug\Falcon Punch.csproj.GenerateResource.cache
+C:\Users\Mio\Documents\FTCC\FTCC_C#Assignments\Falcon Punch\Falcon Punch\obj\Debug\Falcon Punch.csproj.CoreCompileInputs.cache
+C:\Users\Mio\Documents\FTCC\FTCC_C#Assignments\Falcon Punch\Falcon Punch\obj\Debug\Falcon Punch.exe
+C:\Users\Mio\Documents\FTCC\FTCC_C#Assignments\Falcon Punch\Falcon Punch\obj\Debug\Falcon Punch.pdb

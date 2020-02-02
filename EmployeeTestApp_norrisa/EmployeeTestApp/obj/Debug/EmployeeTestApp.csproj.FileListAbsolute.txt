@@ -1,0 +1,18 @@
+C:\Users\Public\Documents\visual studio 2015\Projects\EmployeeTestApp\EmployeeTestApp\bin\Debug\EmployeeTestApp.exe.config
+C:\Users\Public\Documents\visual studio 2015\Projects\EmployeeTestApp\EmployeeTestApp\bin\Debug\EmployeeTestApp.exe
+C:\Users\Public\Documents\visual studio 2015\Projects\EmployeeTestApp\EmployeeTestApp\bin\Debug\EmployeeTestApp.pdb
+C:\Users\Public\Documents\visual studio 2015\Projects\EmployeeTestApp\EmployeeTestApp\obj\Debug\EmployeeTestApp.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\visual studio 2015\Projects\EmployeeTestApp\EmployeeTestApp\obj\Debug\EmployeeTestApp.Form1.resources
+C:\Users\Public\Documents\visual studio 2015\Projects\EmployeeTestApp\EmployeeTestApp\obj\Debug\EmployeeTestApp.Properties.Resources.resources
+C:\Users\Public\Documents\visual studio 2015\Projects\EmployeeTestApp\EmployeeTestApp\obj\Debug\EmployeeTestApp.csproj.GenerateResource.Cache
+C:\Users\Public\Documents\visual studio 2015\Projects\EmployeeTestApp\EmployeeTestApp\obj\Debug\EmployeeTestApp.exe
+C:\Users\Public\Documents\visual studio 2015\Projects\EmployeeTestApp\EmployeeTestApp\obj\Debug\EmployeeTestApp.pdb
+C:\Users\Mio\Downloads\EmployeeTestApp_norrisa\EmployeeTestApp\EmployeeTestApp\bin\Debug\EmployeeTestApp.exe.config
+C:\Users\Mio\Downloads\EmployeeTestApp_norrisa\EmployeeTestApp\EmployeeTestApp\obj\Debug\EmployeeTestApp.exe
+C:\Users\Mio\Downloads\EmployeeTestApp_norrisa\EmployeeTestApp\EmployeeTestApp\obj\Debug\EmployeeTestApp.pdb
+C:\Users\Mio\Downloads\EmployeeTestApp_norrisa\EmployeeTestApp\EmployeeTestApp\bin\Debug\EmployeeTestApp.exe
+C:\Users\Mio\Downloads\EmployeeTestApp_norrisa\EmployeeTestApp\EmployeeTestApp\bin\Debug\EmployeeTestApp.pdb
+C:\Users\Mio\Downloads\EmployeeTestApp_norrisa\EmployeeTestApp\EmployeeTestApp\obj\Debug\EmployeeTestApp.csprojResolveAssemblyReference.cache
+C:\Users\Mio\Downloads\EmployeeTestApp_norrisa\EmployeeTestApp\EmployeeTestApp\obj\Debug\EmployeeTestApp.Form1.resources
+C:\Users\Mio\Downloads\EmployeeTestApp_norrisa\EmployeeTestApp\EmployeeTestApp\obj\Debug\EmployeeTestApp.Properties.Resources.resources
+C:\Users\Mio\Downloads\EmployeeTestApp_norrisa\EmployeeTestApp\EmployeeTestApp\obj\Debug\EmployeeTestApp.csproj.GenerateResource.Cache

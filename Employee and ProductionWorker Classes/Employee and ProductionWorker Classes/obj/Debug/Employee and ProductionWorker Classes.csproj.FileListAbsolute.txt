@@ -1,0 +1,10 @@
+C:\Users\Public\Documents\visual studio 2015\Projects\Employee and ProductionWorker Classes\Employee and ProductionWorker Classes\bin\Debug\Employee and ProductionWorker Classes.exe.config
+C:\Users\Mio\Downloads\sdouhauighsdfg\Employee and ProductionWorker Classes\Employee and ProductionWorker Classes\bin\Debug\Employee and ProductionWorker Classes.exe.config
+C:\Users\Mio\Downloads\sdouhauighsdfg\Employee and ProductionWorker Classes\Employee and ProductionWorker Classes\bin\Debug\Employee and ProductionWorker Classes.exe
+C:\Users\Mio\Downloads\sdouhauighsdfg\Employee and ProductionWorker Classes\Employee and ProductionWorker Classes\bin\Debug\Employee and ProductionWorker Classes.pdb
+C:\Users\Mio\Downloads\sdouhauighsdfg\Employee and ProductionWorker Classes\Employee and ProductionWorker Classes\obj\Debug\Employee and ProductionWorker Classes.csprojResolveAssemblyReference.cache
+C:\Users\Mio\Downloads\sdouhauighsdfg\Employee and ProductionWorker Classes\Employee and ProductionWorker Classes\obj\Debug\Employee_and_ProductionWorker_Classes.Form1.resources
+C:\Users\Mio\Downloads\sdouhauighsdfg\Employee and ProductionWorker Classes\Employee and ProductionWorker Classes\obj\Debug\Employee_and_ProductionWorker_Classes.Properties.Resources.resources
+C:\Users\Mio\Downloads\sdouhauighsdfg\Employee and ProductionWorker Classes\Employee and ProductionWorker Classes\obj\Debug\Employee and ProductionWorker Classes.csproj.GenerateResource.Cache
+C:\Users\Mio\Downloads\sdouhauighsdfg\Employee and ProductionWorker Classes\Employee and ProductionWorker Classes\obj\Debug\Employee and ProductionWorker Classes.exe
+C:\Users\Mio\Downloads\sdouhauighsdfg\Employee and ProductionWorker Classes\Employee and ProductionWorker Classes\obj\Debug\Employee and ProductionWorker Classes.pdb

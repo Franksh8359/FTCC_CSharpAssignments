@@ -1,0 +1,9 @@
+c:\users\mio\documents\visual studio 2015\Projects\Employee Class\Employee Class\bin\Debug\Employee Class.exe.config
+C:\Users\Mio\Documents\Visual Studio 2015\Projects\Employee Class\Employee Class\bin\Debug\Employee Class.exe
+C:\Users\Mio\Documents\Visual Studio 2015\Projects\Employee Class\Employee Class\bin\Debug\Employee Class.pdb
+C:\Users\Mio\Documents\Visual Studio 2015\Projects\Employee Class\Employee Class\obj\Debug\Employee Class.csprojResolveAssemblyReference.cache
+C:\Users\Mio\Documents\Visual Studio 2015\Projects\Employee Class\Employee Class\obj\Debug\Employee_Class.Form1.resources
+C:\Users\Mio\Documents\Visual Studio 2015\Projects\Employee Class\Employee Class\obj\Debug\Employee_Class.Properties.Resources.resources
+C:\Users\Mio\Documents\Visual Studio 2015\Projects\Employee Class\Employee Class\obj\Debug\Employee Class.csproj.GenerateResource.Cache
+C:\Users\Mio\Documents\Visual Studio 2015\Projects\Employee Class\Employee Class\obj\Debug\Employee Class.exe
+C:\Users\Mio\Documents\Visual Studio 2015\Projects\Employee Class\Employee Class\obj\Debug\Employee Class.pdb

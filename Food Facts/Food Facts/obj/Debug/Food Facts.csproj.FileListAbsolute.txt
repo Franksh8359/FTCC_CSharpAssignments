@@ -1,0 +1,21 @@
+c:\users\mio\documents\visual studio 2015\Projects\Food Facts\Food Facts\bin\Debug\Food Facts.exe.config
+c:\users\mio\documents\visual studio 2015\Projects\Food Facts\Food Facts\bin\Debug\Food Facts.exe
+c:\users\mio\documents\visual studio 2015\Projects\Food Facts\Food Facts\bin\Debug\Food Facts.pdb
+c:\users\mio\documents\visual studio 2015\Projects\Food Facts\Food Facts\obj\Debug\Food Facts.csprojResolveAssemblyReference.cache
+c:\users\mio\documents\visual studio 2015\Projects\Food Facts\Food Facts\obj\Debug\Food_Facts.Form1.resources
+c:\users\mio\documents\visual studio 2015\Projects\Food Facts\Food Facts\obj\Debug\Food_Facts.NutritionForm.resources
+c:\users\mio\documents\visual studio 2015\Projects\Food Facts\Food Facts\obj\Debug\Food_Facts.Properties.Resources.resources
+c:\users\mio\documents\visual studio 2015\Projects\Food Facts\Food Facts\obj\Debug\Food Facts.csproj.GenerateResource.Cache
+c:\users\mio\documents\visual studio 2015\Projects\Food Facts\Food Facts\obj\Debug\Food Facts.exe
+c:\users\mio\documents\visual studio 2015\Projects\Food Facts\Food Facts\obj\Debug\Food Facts.pdb
+C:\Users\Mio\Documents\FTCC\FTCC_C#Assignments\Food Facts\Food Facts\bin\Debug\Food Facts.exe.config
+C:\Users\Mio\Documents\FTCC\FTCC_C#Assignments\Food Facts\Food Facts\bin\Debug\Food Facts.exe
+C:\Users\Mio\Documents\FTCC\FTCC_C#Assignments\Food Facts\Food Facts\bin\Debug\Food Facts.pdb
+C:\Users\Mio\Documents\FTCC\FTCC_C#Assignments\Food Facts\Food Facts\obj\Debug\Food Facts.csprojAssemblyReference.cache
+C:\Users\Mio\Documents\FTCC\FTCC_C#Assignments\Food Facts\Food Facts\obj\Debug\Food_Facts.Form1.resources
+C:\Users\Mio\Documents\FTCC\FTCC_C#Assignments\Food Facts\Food Facts\obj\Debug\Food_Facts.NutritionForm.resources
+C:\Users\Mio\Documents\FTCC\FTCC_C#Assignments\Food Facts\Food Facts\obj\Debug\Food_Facts.Properties.Resources.resources
+C:\Users\Mio\Documents\FTCC\FTCC_C#Assignments\Food Facts\Food Facts\obj\Debug\Food Facts.csproj.GenerateResource.cache
+C:\Users\Mio\Documents\FTCC\FTCC_C#Assignments\Food Facts\Food Facts\obj\Debug\Food Facts.csproj.CoreCompileInputs.cache
+C:\Users\Mio\Documents\FTCC\FTCC_C#Assignments\Food Facts\Food Facts\obj\Debug\Food Facts.exe
+C:\Users\Mio\Documents\FTCC\FTCC_C#Assignments\Food Facts\Food Facts\obj\Debug\Food Facts.pdb
